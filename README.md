@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Guilherme Freire
-- 👀 I’m interested in Hardware and Firmware development
+![header](Background.png)
+# 👋 Hi, I’m Guilherme Freire
+> Embedded Electronics Engineer
 - 🌱 I’m currently working in Embedded Systems at SENAI CIMATEC 
 - 💞️ I’m looking to collaborate on RTOS and Embedded Machine Learning projects
-- 📫 How to reach me: [linkedin.com/guilherme-freire-de-almeida](https://www.linkedin.com/in/guilherme-freire-de-almeida-44b02b187/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/guilherme-freire-de-almeida-44b02b187/)
 <hr>
 <br clear="both">
 <div align="center">
