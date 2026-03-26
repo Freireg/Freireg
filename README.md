@@ -1,6 +1,9 @@
 ![header](Background.png)
-# 💫 About Me:
-# 👋 Hi, I’m Guilherme Freire<br>> Embedded Software Engineer<br>- 🌱 I’m currently working at Toradex <br>- 💞️ I’m looking to collaborate on RTOS and Embedded Machine Learning projects<br>- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/guilherme-freire-de-almeida-44b02b187/)<br><br>
+# 👋 Hi, I’m Guilherme Freire
+> Embedded Software Engineer
+- 🌱 I’m currently working at Toradex
+- 💞️ I’m looking to collaborate on RTOS and Embedded Machine Learning projects
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/guilherme-freire-de-almeida-44b02b187/)
 
 
 # 💻 Tech Stack:
