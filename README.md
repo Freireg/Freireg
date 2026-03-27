@@ -20,7 +20,6 @@
 <hr>
 <br clear="both">
 <div align="center">
-  <h3> GitHub Stats </h3>
   <br>
   <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=freireg&theme=gruvbox&hide_border=true"  />
   
