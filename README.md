@@ -30,4 +30,3 @@
 <br clear="both">
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=Freireg&style=flat-square&color=blue)
